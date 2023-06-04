@@ -1,5 +1,5 @@
 # Machine-Translation-using-seq2seq-encoder-decoder-model
-English to Spanish translation
+English to Spanish Translation
 
 **Overview**
 Machine translation using a sequence-to-sequence (seq2seq) encoder-decoder model has revolutionized the field of language translation. By leveraging the power of deep learning and recurrent neural networks, this approach has enabled the automatic translation of text from one language to another. The seq2seq model consists of an encoder network that processes the source language input and captures its semantic representation, followed by a decoder network that generates the corresponding translated output. This paradigm shift in machine translation has paved the way for more accurate and contextually relevant translations, empowering individuals and organizations to bridge linguistic barriers and foster global communication.
